@@ -1,6 +1,6 @@
 @jjacobbodmer
 
-I have experience with MATLAB, EES/FChart, and Maxima. I am currently learning Python.
+I have experience with MATLAB, EES, and Maxima. I am currently learning Python.
 
 <!---
 jjacobbodmer/jjacobbodmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
